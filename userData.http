@@ -23,7 +23,7 @@ content-type: application/json
 
 ###
 
-// Change-Password Aythentication
+// Change-Password Authentication
 PUT http://localhost:3000/change-password/
 content-type: application/json
 
